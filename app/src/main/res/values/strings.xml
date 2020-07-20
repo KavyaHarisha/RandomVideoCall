@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RandomVideoCall</string>
+    <string name="random_call">Random call</string>
+    <string name="get_started">Get started</string>
+    <string name="agora_app_id">a7892bb787fe42a68eafabcda097efef</string>
+    <string name="agora_access_token"></string>
+    <string name="end_call">End call</string>
+    <string name="admob_app_id">ca-app-pub-1861384912836750~8939379615</string>
+    <string name="test_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="please_try_again">Please try again</string>
+</resources>
