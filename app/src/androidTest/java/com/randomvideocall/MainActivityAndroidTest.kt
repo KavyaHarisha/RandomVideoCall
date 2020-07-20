@@ -25,8 +25,4 @@ class MainActivityAndroidTest {
         onView(withId(R.id.btn_get_started)).perform(click())
     }
 
-    @Test
-    fun adsViewIsDisplay() {
-        onView(withId(R.id.ad_view)).check(matches(isDisplayed()))
-    }
 }
